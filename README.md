@@ -1,2 +1,1 @@
-# password
-Password Generator for Bootcamp
+# Password Generator Starter Code
