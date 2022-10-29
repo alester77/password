@@ -10,4 +10,4 @@
 
 https://alester77.github.io/password/
 
-![Screenshot](/assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
