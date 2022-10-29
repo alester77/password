@@ -10,4 +10,4 @@
 
 https://alester77.github.io/password/
 
-<img src = "/Assets/images/screenshot.png">
+<img src = "/assets/images/screenshot.png">
