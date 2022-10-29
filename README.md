@@ -8,4 +8,4 @@
 
 
 
-<img src=".../Assets/images/screenshot.png">
+<img src = "/Assets/images/screenshot.png">
