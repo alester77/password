@@ -10,3 +10,4 @@
 
 https://alester77.github.io/password/
 
+<img src="/assets/images/passwordgen.png">
